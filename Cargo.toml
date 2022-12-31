@@ -5,4 +5,4 @@ edition = "2021"
 
 [dependencies]
 gtk = { version = "0.5.4", package = "gtk4" }
-tray-item = "0.7.1"
+pipewire = "0.5.0"

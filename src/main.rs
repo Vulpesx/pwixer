@@ -1,6 +1,3 @@
-use gtk;
-use tray_item;
+use pipewire;
 
-fn main() {
-    println!("Hello, world!");
-}
+fn main() {}
